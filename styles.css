@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+  }
+  h2 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
